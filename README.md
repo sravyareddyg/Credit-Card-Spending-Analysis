@@ -6,7 +6,7 @@ The objective of this Power BI dashboard is to analyze the dataset and generate 
 
 By leveraging the insights provided, stakeholders can identify patterns and trends in credit card usage, enabling them to make informed decisions on optimizing features to potentially increase revenue.
 
-## Dashboard Link : 
+## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNjUxOWM2OTQtZmQxNS00ZWMzLThjZTktYjI1MTM4ZDE1M2IyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## About Datset:
 
